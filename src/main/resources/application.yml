@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://database_mongodb_1:27017/mybox
+      username: root
+      password: 1234
